@@ -221,6 +221,18 @@ and
 history
 =======
 
+* 2.3.0 (2026-06-30)
+
+  * improve documentation
+
+  * various cosmetic tweaks
+
+  * fix eshell-path-env getting out-of-sync with ``$path``
+    `#81 <https://github.com/wbolster/emacs-direnv/pull/81>`_
+
+  * font lock stdlib functions
+    `#78 <https://github.com/wbolster/emacs-direnv/pull/78>`_
+
 * 2.2.0 (2021-10-11)
 
   * depend on emacs 25.1+
